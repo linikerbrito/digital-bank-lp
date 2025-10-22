@@ -1,4 +1,4 @@
-# 💳 EasyBank Landing Page
+# EasyBank Landing Page
 
 Landing page moderna desenvolvida em **Vue 3 + Vite**, criada para apresentar o conceito de um **banco digital** com design limpo, rápido e responsivo.
 
